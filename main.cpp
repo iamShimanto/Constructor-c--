@@ -17,7 +17,7 @@ Car::Car(string x , string y , int z){
 }
 
 int main(){
-    
+
     string brand, model;
     int year;
     cout << "Enter your car brand : ";
